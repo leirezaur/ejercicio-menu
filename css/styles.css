@@ -1,0 +1,23 @@
+body{
+  color: black;
+  font-family: 'Montserrat', sans-serif;;
+}
+
+li{
+  background: #ffffff;
+  padding: 1rem;
+  border: 2px solid #000000;
+  margin: 0.2rem;
+  display: inline-block;
+}
+
+.submenu li{
+  display: block;
+  float: none;
+  color: #00ffd2;
+  border: 2px solid #00ffd2;
+}
+
+text{
+  color: #00ffd2;
+}
